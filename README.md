@@ -19,3 +19,4 @@ Wnft (wrapped NFT) - deposit Mixed Assets (erc721, erc1155, erc20) and cast NFT.
 - Credit note - when liquidating a chain loan, the lender transfers the amount of funds from the wallet to the borrower's wallet and receives a credit note (erc721), which represents its claim on wnft, which encapsulates the loan mortgage assets (and therefore claims on the assets themselves) if the loan defaults.
 - Untrusted creditor's rights - the simple logic embedded in the pawn agreement determines whether the loan is in default. If the financing amount + interest amount is not paid at the end of the loan term, anyone can apply for the loan. Wnft, as well as assets that provide security for defaulted loans, are transferred through the chain to the address where the lender's notes are held.
 
+
