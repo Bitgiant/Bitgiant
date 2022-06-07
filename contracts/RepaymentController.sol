@@ -66,3 +66,4 @@ contract RepaymentController is IRepaymentController {
         loanCore.claim(loanId);
     }
 }
+
