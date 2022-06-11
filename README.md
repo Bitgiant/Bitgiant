@@ -2,7 +2,7 @@
 
 ## Project positioning
 Bitgiant this is a peer-to-peer lending agreement that allows NFT holders to unlock erc-20 token liquidity by issuing their NFT as collateral.
-##Solve what problem
+## Solve what problem
 Bitgiant is a platform that provides a liquidity lending market for NFT. The protocol is a combination of defi and NFT. This allows users to use the token in urgent need without having to bother to find a buyer or sell their NFT at a low price to attract buyers. They only need to mortgage their NFT, lend the token in urgent need, and then pay the interest as agreed. In addition, many users have a lot of high-value NFT, which is equivalent to having a lot of idle funds. Users can also use it for mortgage lending to make their own funds flow and avoid waste.
 ## characteristic
 
