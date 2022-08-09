@@ -257,4 +257,3 @@ contract LoanCore is ILoanCore, AccessControl, Pausable, ICallDelegator {
         return false;
     }
 }
-
